@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://isherezahin.github.io/Bhooti/favicon.svg" width="88" alt="">
+  <img src="https://bhooti.vercel.app/favicon.svg" width="88" alt="">
 </p>
 
 <h1 align="center">Bhooti</h1>
@@ -7,7 +7,7 @@
 <p align="center">A quiet, living notch at the top of your Windows screen.</p>
 
 <p align="center">
-  <a href="https://isherezahin.github.io/Bhooti/"><strong>See it working</strong></a>
+  <a href="https://bhooti.vercel.app/"><strong>See it working</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/IsHereZahin/Bhooti/releases/latest"><strong>Download</strong></a>
 </p>
@@ -51,7 +51,7 @@ Bhooti has no accounts, ads, analytics or telemetry, and everything it keeps
 stays on your PC. Its one network request is the optional lyrics lookup, which
 sends the song's title, artist, album and length to [LRCLIB](https://lrclib.net);
 turn lyrics off in Settings › Music and it makes none. Read the full
-[privacy policy](https://isherezahin.github.io/Bhooti/privacy.html).
+[privacy policy](https://bhooti.vercel.app/privacy.html).
 
 ## Feedback
 
