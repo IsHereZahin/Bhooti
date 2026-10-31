@@ -43,22 +43,29 @@ Windows 10 (version 1809 or newer) or Windows 11, on a 64-bit (x64) PC.
 
 ## Install
 
-Get the latest version from [Releases](https://github.com/IsHereZahin/Bhooti/releases/latest).
+1. Download **bhooti.exe** from the [latest release](https://github.com/IsHereZahin/Bhooti/releases/latest).
+2. Run it. Bhooti appears as a small pill at the top of your screen.
+3. Windows may say it doesn't recognise the app, because it's new and not
+   signed yet. Choose **More info**, then **Run anyway**.
+
+A Microsoft Store version is on its way.
 
 ## Privacy
 
 Bhooti has no accounts, ads, analytics or telemetry, and everything it keeps
-stays on your PC. Its one network request is the optional lyrics lookup, which
-sends the song's title, artist, album and length to [LRCLIB](https://lrclib.net);
-turn lyrics off in Settings › Music and it makes none. Read the full
-[privacy policy](https://bhooti.vercel.app/privacy.html).
+stays on your PC. It goes online for two things only: the optional lyrics
+lookup, which sends the song's title, artist, album and length to
+[LRCLIB](https://lrclib.net), and a check for a newer version on GitHub, once a
+day and when you ask. Turn lyrics off in Settings › Music and Check
+automatically off in Settings › About, and it makes no requests by itself.
+Read the full [privacy policy](https://bhooti.vercel.app/privacy.html).
 
 ## Feedback
 
 Found a bug or have an idea? [Open an issue](https://github.com/IsHereZahin/Bhooti/issues)
-or [share feedback](https://isherezahin.vercel.app/apps/moni#feedback).
+or [contact the developer](https://isherezahin.vercel.app/).
 
 ## About This Repository
 
-This repository holds Bhooti's releases and its website. The app's source code
-isn't published here.
+This repository holds Bhooti's releases. The app's source code isn't published
+here, and its website is [bhooti.vercel.app](https://bhooti.vercel.app/).
